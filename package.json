@@ -1,0 +1,29 @@
+{
+  "name": "laravue-electron",
+  "version": "1.0.0",
+  "description": "Making laravel vue.js as desktop application using electron js",
+  "main": "main.js",
+  "engines": {
+    "node": ">=8.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build":"electron-packager . LaravueElectron --out=dist"
+  },
+  "repository": "",
+  "keywords": [
+    "laravel",
+    "electron",
+    "desktop",
+    "application"
+  ],
+  "author": "arjunapanji21",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.0.0",
+    "electron-packager": "^17.1.1"
+  },
+  "dependencies": {
+    "node-php-server": "^0.1.2"
+  }
+}
