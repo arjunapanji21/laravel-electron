@@ -18,7 +18,7 @@
     "application"
   ],
   "author": "arjunapanji21",
-  "license": "MIT",
+  "license": "cc-by-4.0",
   "devDependencies": {
     "electron": "^13.0.0",
     "electron-packager": "^17.1.1"
