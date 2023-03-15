@@ -13,4 +13,7 @@ Making Laravel desktop application using Electron Js.
 - php 7.4.33
 - Laravel 8
 
+### Installation
+run command <code>npm i && npm start</code>
+
 ### Check the complete tutorial and usage on [laravelarticle.com](https://laravelarticle.com/laravel-desktop-application-using-electron-js)
